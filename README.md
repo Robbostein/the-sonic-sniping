@@ -10,7 +10,7 @@ And dont forget to upgrade PIP
 
 $pip install --upgrade pip
 
-And letsgo
+Run
 
 $python3 buy.py
 
@@ -20,7 +20,6 @@ Aaaaaanndd,
 donation
 
 0xeF2eFe66c2bA1313f584D6354450783d03D704b7
-Make sure you are at fantom opera chain
-🙂
 
+you can changed EVM chain with just open file buy.py and changed RPCs+all config etc
 
